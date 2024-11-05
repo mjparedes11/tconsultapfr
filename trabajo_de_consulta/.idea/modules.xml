@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trabajo_de_consulta.iml" filepath="$PROJECT_DIR$/.idea/modules/trabajo_de_consulta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/trabajo_de_consulta.trabajo_de_consulta-build.iml" filepath="$PROJECT_DIR$/.idea/modules/trabajo_de_consulta.trabajo_de_consulta-build.iml" />
+    </modules>
+  </component>
+</project>
